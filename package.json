@@ -1,0 +1,27 @@
+{
+  "name": "buffer-hexdump",
+  "version": "1.0.0",
+  "description": "Buffer hexdump tool for browser and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iefserge/buffer-hexdump.git"
+  },
+  "keywords": [
+    "hexdump",
+    "hex",
+    "dump"
+  ],
+  "author": "Sergii Iefremov <iefserge@runtimejs.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iefserge/buffer-hexdump/issues"
+  },
+  "homepage": "https://github.com/iefserge/buffer-hexdump",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
